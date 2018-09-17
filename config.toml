@@ -54,7 +54,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "custom"
 
   # Your details.
   name = "Indro Spinelli"
@@ -243,7 +243,7 @@ enableGitInfo = false
     icon = "google-plus"
     icon_pack = "fab"
     link = "https://plus.google.com/116111144746441794884"
-  
+
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
