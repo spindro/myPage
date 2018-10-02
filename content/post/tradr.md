@@ -3,8 +3,8 @@ title: 'A little wrap-up of the last two years'
 author: Indro Spinelli
 date: '2018-09-17'
 slug: TRADR
-categories: ["EU Project", "TRADR", "blog", "robots", "SLAM"]
-tags:  ["EU Project", "TRADR", "blog", "robots", "SLAM"]
+categories: ["EU Project", "TRADR", "robotics", "SLAM"]
+tags:  ["EU Project", "TRADR", "robotics", "SLAM"]
 math: false
 header:
   caption: 'The TRADR team + end-users'
