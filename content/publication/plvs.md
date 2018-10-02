@@ -1,7 +1,7 @@
 +++
 title = "PLVS: An Open-Source RGB-D and Stereo SLAM System with Keypoints, Keylines, Volumetric Mapping and 3D Incremental Segmentation"
 date = 2018-09-19T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Luigi Freda", "Indro Spinelli", "Fiora Pirri"]
