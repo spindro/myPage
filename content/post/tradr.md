@@ -15,9 +15,9 @@ This is the first post of my personal page and in some sense, the story behind t
 I  had the privilege to collaborate as a bachelor and later master student to a European project [TRADR: Long-Term Human-Robot Teaming for Disaster Response](http://www.tradr-project.eu/). Something very unusual here in Italy, in fact, it hasn't been always easy to make this intern at the Alcor lab, which was responsible for the WP4 of the project, coexist with my ordinary studies. By the way, it was worth it. I've learned a lot of stuff, travelled as much and made new connections.
 I've even been an actor!
 
-![Being an actor](/img/actor.gif)
+![Being an actor](/img/me.png)
 
-The video crew of the Italians Firefighters, the Vigili del Fuoco captured various moments of the final year review project held in an industrial site near Venice. In the GIF up there can be appreciated how, moving around on my chair, staring intensively at the screen, I try to make feel the viewer the same thrilling sensation of the time running out and a long list of things still to do.
+The video crew of the Italians Firefighters, the Vigili del Fuoco captured various moments of the final year review project held in an industrial site near Venice. In the the video can be appreciated how, moving around on my chair, staring intensively at the screen, I try to make feel the viewer the same thrilling sensation of the time running out and a long list of things still to do.
 
 {{< youtube W8onMryGTEA >}}
 
