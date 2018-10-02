@@ -62,7 +62,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  #organizations = [ { name = "La Sapienza", url = "" } ]
+  organizations = [ { name = "Intern at Alcor lab", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -246,10 +246,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://plus.google.com/116111144746441794884"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "//github.com/spindro"
+#  [[params.social]]
+#    icon = "github"
+#    icon_pack = "fab"
+#    link = "//github.com/spindro"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -285,6 +285,12 @@ enableGitInfo = false
   name = "Projects"
   url = "#projects"
   weight = 4
+
+#[[menu.main]]
+#  name = "Links"
+#  url = "#links"
+# weight = 5
+
 
 [[menu.main]]
   name = "Contact"
