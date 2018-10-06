@@ -39,5 +39,5 @@ weight = 10
 # Biography
 
 I am a student of Artificial Intelligence and Robotics at the Sapienza University of Rome.
-I'm also an intern at the Alcor Lab, whose research focuses on Vision, Perception and Learning for Robotics.
-SLAM is the research field that I'm in love. AR and VR, Robotics, autonomous vehicles and drones, it has so many application that will certainly shape the future!
+I am also an intern at the Alcor Lab, whose research focuses on Vision, Perception and Learning for Robotics.
+My main interest is SLAM with all its application: AR and VR, Robotics, autonomous vehicles and drones.It will certainly shape the future!
