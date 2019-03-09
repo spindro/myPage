@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+#date = 2019-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 10
@@ -10,13 +10,11 @@ weight = 10
 # List your academic interests.
 [interests]
   interests = [
-    "SLAM",
-    "Robotics",
-    "Spatial AI",
-    "Computer Vision",
+    "Deep Learning",
     "Machine Learning",
-    "Reinforcement Learning"
-  ]
+    "Geometric Deep Learning",
+    "Computational Intelligence"
+    ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
@@ -39,5 +37,5 @@ weight = 10
 # Biography
 
 I am a student of Artificial Intelligence and Robotics at the Sapienza University of Rome.
-I am also an intern at the Alcor Lab, whose research focuses on Vision, Perception and Learning for Robotics.
-My main interest is SLAM with all its application: AR and VR, Robotics, autonomous vehicles and drones.It will certainly shape the future!
+Right now I am an intern at the ISPAMM lab working on the exciting new field of Geometric Deep Learning, building neural networks for graph-structured data.
+Previously I was an intern at the Alcor Lab where my research was focused on Computer Vision and Robotics Perception.
