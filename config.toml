@@ -242,14 +242,9 @@ enableGitInfo = false
     link = "https://twitter.com/IndroSpinelli"
 
   [[params.social]]
-    icon = "google-plus"
+    icon = "github"
     icon_pack = "fab"
-    link = "https://plus.google.com/116111144746441794884"
-
-#  [[params.social]]
-#    icon = "github"
-#    icon_pack = "fab"
-#    link = "//github.com/spindro"
+    link = "//github.com/spindro"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
