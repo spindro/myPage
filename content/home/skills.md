@@ -34,15 +34,15 @@ weight = 50
 #  description = "100%"
 
 [[feature]]
-  icon = "guitar"
+  icon = "fa-guitar"
   icon_pack = "fas"
   name = "Classic Guitar"
 #  description = "100%"
 
-[[feature]]
-  icon = "bullseye"
-  icon_pack = "fas"
-  name = "Darts"
+#[[feature]]
+#  icon = "bullseye"
+#  icon_pack = "fas"
+#  name = "Darts"
 #  description = "10%"
 
 +++
