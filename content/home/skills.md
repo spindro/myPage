@@ -35,9 +35,9 @@ weight = 50
 #  description = "100%"
 
 [[feature]]
-  icon = "guitar"
+  icon = "fa-music"
   icon_pack = "fas"
-  name = "Guitar"
+  name = "Jazz Guitar"
 #  description = "100%"
 
 #[[feature]]
