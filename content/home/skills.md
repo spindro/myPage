@@ -19,6 +19,7 @@ weight = 50
 # Available icon packs and icons:
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
+
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
@@ -34,7 +35,7 @@ weight = 50
 #  description = "100%"
 
 [[feature]]
-  icon = "fa-guitar"
+  icon = "guitar"
   icon_pack = "fas"
   name = "Guitar"
 #  description = "100%"
