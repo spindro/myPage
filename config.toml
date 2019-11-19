@@ -58,17 +58,17 @@ enableGitInfo = false
 
   # Your details.
   name = "Indro Spinelli"
-  role = "MSc student in Artificial Intelligence and Robotics"
+  role = "PhD Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Intern @ ISPAMM lab", url = "http://ispac.diet.uniroma1.it/" } ]
+  organizations = [ { name = "ISPAMM lab", url = "http://ispac.diet.uniroma1.it/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "indro.spinelli@gmail.com"
-  address = ""
-  office_hours = ""
+  address = "Via Eudossiana 18, 00184 Roma (Italy)"
+  office_hours = "Engineering Faculty, Building B, Floor 1"
   phone = ""
   skype = ""
   telegram = ""
@@ -288,8 +288,8 @@ enableGitInfo = false
 
 
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Contacts"
+  url = "#contacts"
   weight = 6
 
 

@@ -1,6 +1,6 @@
 +++
 # Contact widget.
-widget = "contact"
+widget = "contacts"
 active = true
 date = 2016-04-20T00:00:00
 

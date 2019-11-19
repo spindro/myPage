@@ -33,13 +33,13 @@ weight = 50
   name = "Road cycling"
 #  description = "100%"
 
-[[feature]]
+#[[feature]]
   icon = "fa-guitar"
   icon_pack = "fas"
   name = "Classic Guitar"
 #  description = "100%"
 
-#[[feature]]
+[[feature]]
 #  icon = "bullseye"
 #  icon_pack = "fas"
 #  name = "Darts"
