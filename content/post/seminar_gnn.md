@@ -1,4 +1,4 @@
----
++++
 title: 'Seminar on Graph Neural Networks'
 author: Indro Spinelli
 date: '2019-12-05'
@@ -9,7 +9,7 @@ math: false
 #header:
 #  caption: 'Neural Networks course'
 #  image: 'iris_graph.png'
-url_pdf: 'files/gnn_seminar.pdf'
+url_pdf: 'https://spindro.github.io/files/gnn_seminar.pdf'
 url_slides: 'https://spindro.github.io/files/gnn_seminar.pdf'
----
++++
 {{% staticref "files/gnn_seminar.pdf" "newtab" %}}**Here**{{% /staticref %}} you can find an introduction to the world of graph neural networks (GNN for short). This family of models is able to take as input graph structured data and solve many interesting tasks on the graph itself.
