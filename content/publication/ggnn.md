@@ -1,6 +1,6 @@
 +++
 title = "Efficient data augmentation using graph imputation neural networks"
-date = 2019-12-07T00:00:00
+date = 2019-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -65,7 +65,7 @@ highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
+#[header]
 #image = "mosaic.gif"
 #caption = ""
 
