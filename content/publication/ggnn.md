@@ -18,8 +18,8 @@ authors = ["Indro Spinelli","Simone Scardapane", "Michele Scarpiniti", "Aurelio 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = "WIRN 2019"
+publication = "Italian Workshop on Neural Networks"
+publication_short = "WIRN"
 
 # Abstract and optional shortened version.
 abstract = "Recently, data augmentation in the semi-supervised regime, where unlabeled data vastly outnumbers labeled data, has received a considerable attention. In this paper, we describe an efficient technique for this task, exploiting a recent framework we proposed for missing data imputation called graph imputation neural network (GINN). The key idea is to leverage both supervised and unsupervised data to build a graph of similarities between points in the dataset. Then, we augment the dataset by severely damaging a few of the nodes (up to 80% of their features), and reconstructing them using a variation of GINN. On several benchmark datasets, we show that our method can obtain significant improvements compared to a fully-supervised model, and we are able to augment the datasets up to a factor of 10x. This points to the power of graph-based neural networks to represent structural affinities in the samples for tasks of data reconstruction and augmentation. "

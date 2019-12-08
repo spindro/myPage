@@ -15,11 +15,11 @@ authors = ["Luigi Freda", "Indro Spinelli", "Fiora Pirri"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = ""
+publication_short = "Draft"
 
 # Abstract and optional shortened version.
 abstract = "PLVS is a real-time system which leverages sparse RGB-D and Stereo SLAM, volumetric mapping and 3D unsupervised incremental segmentation. PLVS stands for Points, Lines, Volumetric mapping and Segmentation. The system can run entirely on CPU or can profit by available GPU computational resources for some specific tasks. The underlying SLAM module is sparse and keyframe-based. It relies on the extraction and tracking of keypoints and keylines. Different volumetric mapping methods are supported and integrated in PLVS. A novel “reprojection” error is proposed for bundle-adjusting line segments. This error allows to better stabilize the position estimates of the mapped line segment endpoints and improves SLAM performances. An incremental segmentation method is implemented and integrated in the PLVS framework. "
