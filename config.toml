@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "ISPAMM lab", url = "http://ispac.diet.uniroma1.it/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "pp2020.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "indro[dot]spinelli[at]gmail[dot]com"
   address = "Via Eudossiana 18, 00184 Roma (Italy)\nEngineering Faculty, Building B, Floor 1"
   office_hours = ""
