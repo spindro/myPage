@@ -11,10 +11,10 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
 
 # Teaching Assistant
 ## 2019/2020
-* [Machine Learning for Safety Systems](http://michelescarpiniti.site.uniroma1.it/didattica/mlss) (M.Sc in Safety and Civil Protection Engineering, Rome, 6 CFU, Prof. Michele Scarpiniti)
+* [Machine Learning for Safety Systems](http://michelescarpiniti.site.uniroma1.it/didattica/mlss) (M.Sc in Safety and Civil Protection Engineering, Prof. Michele Scarpiniti)
