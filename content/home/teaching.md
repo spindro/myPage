@@ -15,6 +15,7 @@ weight = 40
 
 +++
 
-## Teaching Assistant
 ## 2019/2020
+### Teaching Assistant
+
 * [Machine Learning for Safety Systems](http://michelescarpiniti.site.uniroma1.it/didattica/mlss) (M.Sc in Safety and Civil Protection Engineering, Prof. Michele Scarpiniti)
