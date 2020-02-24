@@ -11,8 +11,8 @@ weight = 10
 [interests]
   interests = [
     "Graph Neural Networks",
-    "Adversarial Machine Learning",
-    "Artificial Intelligence"
+    "Adversarial Attacks",
+    "Robustness"
     ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +35,4 @@ weight = 10
 
 # Biography
 
-I am a PhD candidate at the [ISPAMM lab](http://ispac.diet.uniroma1.it/) of Sapienza University of Rome. My main research interests are two exciting fields in Machine Learning: Graph Neural Network and Adversarial Machine Learning. The first studies a family of Neural Networks capable of working directly on graph-structured data that can encode physical, biological, and social systems. The second tests the vulnerability of Neural Networks such that they can be deployed safely in the real world. Previously I was an intern at the Alcor Lab where my research focused on Computer Vision and Robotics.
+I am a PhD candidate at the [ISPAMM lab](http://ispac.diet.uniroma1.it/) of Sapienza University of Rome. I'm working under the supervision of Dr. [Simone Scardapane](http://ispac.diet.uniroma1.it/scardapane/). My main research interests are two exciting fields in Machine Learning: Graph Neural Network and Adversarial Machine Learning. The first studies a family of Neural Networks capable of working directly on graph-structured data that can encode physical, biological, and social systems. The second tests the vulnerability of Neural Networks such that they can be deployed safely in the real world. Previously I was an intern at the Alcor Lab where my research focused on Computer Vision and Robotics.
