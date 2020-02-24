@@ -15,6 +15,6 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+# Teaching Assistant
+## 2019/2020
+* [Machine Learning for Safety Systems](http://michelescarpiniti.site.uniroma1.it/didattica/mlss) (M.Sc in Safety and Civil Protection Engineering, Rome, 6 CFU, Prof. Michele Scarpiniti)
