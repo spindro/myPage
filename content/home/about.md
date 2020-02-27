@@ -11,7 +11,7 @@ weight = 10
 [interests]
   interests = [
     "Graph Neural Networks",
-    "Adversarial Attacks",
+    "Adversarial Machine Learning",
     "Robustness"
     ]
 
