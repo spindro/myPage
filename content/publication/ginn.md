@@ -45,7 +45,7 @@ projects = []
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/1905.01907"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/spindro/GINN"
 url_dataset = ""
 url_project = ""
 url_slides = "https://spindro.github.io/files/ginn.pdf"
