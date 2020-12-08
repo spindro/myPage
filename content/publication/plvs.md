@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["3D reconstruction", "augmented reality", "computer vision", "image processig", "mapping", "open source", "perception", "robotics", "sensors", "SLAM", "TRADR"]
+tags = ["computer vision", "robotics", "SLAM", "TRADR"]
 
 # Links (optional).
 url_pdf = ""

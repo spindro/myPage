@@ -15,10 +15,10 @@ authors = ["Indro Spinelli","Simone Scardapane", "Aurelio Uncini"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Neural Networks, 2020"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -40,15 +40,15 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-#tags = ["3D reconstruction", "augmented reality", "computer vision", "image processig", "mapping", "open source", "perception", "robotics", "sensors", "SLAM", "TRADR"]
+#tags = ["graph neural networks", "data imputation"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1905.01907"
+url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0893608020302185"
 url_preprint = ""
 url_code = "https://github.com/spindro/GINN"
 url_dataset = ""
 url_project = ""
-url_slides = "https://spindro.github.io/files/ginn.pdf"
+#url_slides = "https://spindro.github.io/files/ginn.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""

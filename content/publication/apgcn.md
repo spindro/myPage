@@ -15,11 +15,11 @@ authors = ["Indro Spinelli","Simone Scardapane", "Aurelio Uncini"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "IEEE Transactions on Neural Networks and Learning Systems, 2020"
+publication_short = "IEEE TNNLS"
 
 # Abstract and optional shortened version.
 abstract = "Graph convolutional networks (GCNs) are a family of neural network models that perform inference on graph data by interleaving vertex-wise operations and message-passing exchanges across nodes. Concerning the latter, two key questions arise: (i) how to design a differentiable exchange protocol (e.g., a 1-hop Laplacian smoothing in the original GCN), and (ii) how to characterize the trade-off in complexity with respect to the local updates. In this paper, we show that state-of-the-art results can be achieved by adapting the number of communication steps independently at every node. In particular, we endow each node with a halting unit (inspired by Graves' adaptive computation time) that after every exchange decides whether to continue communicating or not. We show that the proposed adaptive propagation GCN (AP-GCN) achieves superior or similar results to the best proposed models so far on a number of benchmarks, while requiring a small overhead in terms of additional parameters. We also investigate a regularization term to enforce an explicit trade-off between communication and accuracy. The code for the AP-GCN experiments is released as an open-source library."
@@ -40,10 +40,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-#tags = ["Graph neural network", "graph data", "Machine learning", "Node classification"]
+#tags = ["graph neural network", "machine learning", "node classification"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2002.10306"
+url_pdf = "https://ieeexplore.ieee.org/document/9206045"
 url_preprint = ""
 url_code = "https://github.com/spindro/AP-GCN"
 url_dataset = ""

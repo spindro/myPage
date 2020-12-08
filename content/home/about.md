@@ -11,8 +11,7 @@ weight = 10
 [interests]
   interests = [
     "Graph Neural Networks",
-    "Adversarial Machine Learning",
-    "Robustness"
+    "Trustworthy Machine Learning",
     ]
 
 # List your qualifications (such as academic degrees).
