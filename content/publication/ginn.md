@@ -1,6 +1,6 @@
 +++
 title = "Missing Data Imputation with Adversarially-trained Graph Convolutional Networks"
-date = 2020-06-01T00:00:00
+date = 2020-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Neural Networks, 2020"
-publication_short = "Neural Networks, 2020"
+publication_short = "Neural Networks"
 
 # Abstract and optional shortened version.
 abstract = "Missing data imputation (MDI) is a fundamental problem in many scientific disciplines. Popular methods for MDI use global statistics computed from the entire data set (e.g., the feature-wise medians), or build predictive models operating independently on every instance. In this paper we propose a more general framework for MDI, leveraging recent work in the field of graph neural networks (GNNs). We formulate the MDI task in terms of a graph denoising autoencoder, where each edge of the graph encodes the similarity between two patterns. A GNN encoder learns to build intermediate representations for each example by interleaving classical projection layers and locally combining information between neighbors, while another decoding GNN learns to reconstruct the full imputed data set from this intermediate embedding. In order to speed-up training and improve the performance, we use a combination of multiple losses, including an adversarial loss implemented with the Wasserstein metric and a gradient penalty. We also explore a few extensions to the basic architecture involving the use of residual connections between layers, and of global statistics computed from the data set to improve the accuracy. On a large experimental evaluation, we show that our method robustly outperforms state-of-the-art approaches for MDI, especially for large percentages of missing values."
