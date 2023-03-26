@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/spindro/spindro.github.io
 	branch = master
+[submodule "themes/barks"]
+	path = themes/barks
+	url = https://github.com/timothygebhard/barks
