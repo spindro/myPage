@@ -14,10 +14,12 @@ googleAnalytics = "UA-125836689-1"
     name = "About"
     url  = "/about"
     weight = 2
+
 [[menu.main]]
     name = "Publications"
     url  = "/publications"
     weight = 2
+
 [[menu.main]]
     name = "Activities"
     url  = "/activities"
