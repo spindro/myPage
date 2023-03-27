@@ -25,3 +25,4 @@ I have served as reviewer for these AI conferences and journals:
 * IEEE Transactions on Neural Networks and Learning Systems     
 * Neural Networks, Elsevier     
 * Neurocomputing, Elsevier  
+* Neural Processing Letters, Springer
