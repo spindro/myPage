@@ -16,13 +16,13 @@ googleAnalytics = "UA-125836689-1"
     weight = 2
 
 [[menu.main]]
-    name = "Publications"
-    url  = "/publications"
+    name = "Activities"
+    url  = "/activities"
     weight = 2
 
 [[menu.main]]
-    name = "Activities"
-    url  = "/activities"
+    name = "Publications"
+    url  = "/publications"
     weight = 2
 
 
