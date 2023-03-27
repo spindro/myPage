@@ -17,11 +17,11 @@ googleAnalytics = "UA-125836689-1"
     name = "Publications"
     url  = "/publications"
     weight = 2
-#[[menu.main]]
-#    name = "Teaching"
-#    url  = "/teaching"
-#    weight = 2
-# Customization options
+[[menu.main]]
+    name = "Activities"
+    url  = "/activities"
+    weight = 3
+
 
 [params]
     [params.head]
