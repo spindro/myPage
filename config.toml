@@ -8,6 +8,7 @@ languageCode = "en"
 theme = "barks"
 title = "Indro Spinelli"
 googleAnalytics = "UA-125836689-1"
+
 # Main menu
 [[menu.main]]
     name = "About"
@@ -20,7 +21,7 @@ googleAnalytics = "UA-125836689-1"
 [[menu.main]]
     name = "Activities"
     url  = "/activities"
-    weight = 3
+    weight = 2
 
 
 [params]
