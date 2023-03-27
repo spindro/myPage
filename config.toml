@@ -25,10 +25,10 @@ googleAnalytics = "UA-125836689-1"
 
 [params]
     [params.head]
-        author = "Matilda Backendal"
+        author = "Indro Spinelli"
         custom_css = "/custom.css"
-        description = "Hi, I'm Matilda"
-        keywords = ["cryptography", "academic", "ETH", "security", "doctorate"]
+        description = "spindro"
+        keywords = ["trusthworthy machine learning", "academic", "graph neural networks"]
 
     [params.navigation]
         show_navigation = true
