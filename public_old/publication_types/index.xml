@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Indro Spinelli</title>
@@ -7,35 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://spindro.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://spindro.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1</title>
-      <link>https://spindro.github.io/publication_types/1/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <title>3</title>
+      <link>https://spindro.github.io/publication_types/3/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://spindro.github.io/publication_types/1/</guid>
+      <guid>https://spindro.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
       <link>https://spindro.github.io/publication_types/2/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>3</title>
-      <link>https://spindro.github.io/publication_types/3/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <title>1</title>
+      <link>https://spindro.github.io/publication_types/1/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://spindro.github.io/publication_types/3/</guid>
+      <guid>https://spindro.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     

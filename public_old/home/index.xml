@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Indro Spinelli</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://spindro.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://spindro.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://spindro.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -27,13 +23,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/about/</guid>
-      <description>Biography I am a PhD candidate at the ISPAMM lab of Sapienza University of Rome. I&amp;rsquo;m working under the supervision of Dr. Simone Scardapane. My main research interests are two exciting fields in Machine Learning: Graph Neural Network and Adversarial Machine Learning. The first studies a family of Neural Networks capable of working directly on graph-structured data that can encode physical, biological, and social systems. The second tests the vulnerability of Neural Networks such that they can be deployed safely in the real world.</description>
+      <description>Biography I am a PhD candidate at the ISPAMM lab of Sapienza University of Rome. I&amp;rsquo;m working under the supervision of Dr. Simone Scardapane and Aurelio Uncini. My main interest is trustworthy machine learning for graph structered data. More in general anything that combines neural networks and graphs grabs my attention. Previously I was an intern at the Alcor Lab where my research focused on Computer Vision and Robotics (SLAM).</description>
     </item>
     
     <item>
       <title>Posts</title>
       <link>https://spindro.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/posts/</guid>
       <description></description>
@@ -42,7 +38,7 @@
     <item>
       <title>Selected Talks</title>
       <link>https://spindro.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/talks_selected/</guid>
       <description></description>
@@ -51,7 +47,7 @@
     <item>
       <title>Publications</title>
       <link>https://spindro.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/publications/</guid>
       <description></description>
@@ -60,7 +56,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://spindro.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/talks/</guid>
       <description></description>
@@ -69,7 +65,7 @@
     <item>
       <title>Projects</title>
       <link>https://spindro.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/projects/</guid>
       <description></description>
@@ -78,18 +74,17 @@
     <item>
       <title>Teaching</title>
       <link>https://spindro.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/teaching/</guid>
-      <description> 2019&amp;frasl;2020 Teaching Assistant  Machine Learning for Signal Processing (M.Sc in Electronics Engineering, Prof. Danilo Comminiello)
- Machine Learning for Safety Systems (M.Sc in Safety and Civil Protection Engineering, Prof. Michele Scarpiniti)
-  </description>
+      <description>2019/2020 Teaching Assistant Machine Learning for Signal Processing (M.Sc in Electronics Engineering, Prof. Danilo Comminiello)
+Machine Learning for Safety Systems (M.Sc in Safety and Civil Protection Engineering, Prof. Michele Scarpiniti)</description>
     </item>
     
     <item>
       <title>Links</title>
       <link>https://spindro.github.io/home/links/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/links/</guid>
       <description></description>
@@ -98,7 +93,7 @@
     <item>
       <title>Things that I like to do in my free time</title>
       <link>https://spindro.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/skills/</guid>
       <description></description>
@@ -107,7 +102,7 @@
     <item>
       <title>Contact</title>
       <link>https://spindro.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/contact/</guid>
       <description></description>
@@ -116,7 +111,7 @@
     <item>
       <title>Search</title>
       <link>https://spindro.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/search/</guid>
       <description></description>
@@ -125,7 +120,7 @@
     <item>
       <title></title>
       <link>https://spindro.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/tags/</guid>
       <description></description>
