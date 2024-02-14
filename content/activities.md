@@ -1,11 +1,11 @@
 ---
-title: Activities
+title: ACTIVITIES
 hide_title: true
 math: false
 ---
 
 # Talks
-
+* **LoG MeetUp Trento** Explainable Graph Neural Networks
 * **Università della Svizzera Italiana** Fair Graph Representation Learning 
 * **Roma Tre University** Graph Machine Learning    
 
@@ -22,7 +22,9 @@ I have served as reviewer for these AI conferences and journals:
 
 ## Journals
 
-* IEEE Transactions on Neural Networks and Learning Systems     
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Artificial Intelligence      
 * Neural Networks, Elsevier     
 * Neurocomputing, Elsevier  
+* Cognitive Computation, Springer
 * Neural Processing Letters, Springer

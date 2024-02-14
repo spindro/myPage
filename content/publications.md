@@ -1,19 +1,22 @@
 ---
-title: Publications
+title: PUBLICATIONS
 hide_title: true
 math: false
 ---
 
-# Preprints
+# Journals
+
+* [**Interpreting black-box models: a review on explainable artificial intelligence**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&authuser=3&citation_for_view=0glmB_UAAAAJ:ufrVoPGSRksC)  
+*V Hassija, V Chamola, A Mahapatra, A Singal, D Goel, K Huang, S Scardapane, I Spinelli, M Mahmud, A Hussain*
+<sm>
+Cognitive Computation		2023
+</sm>
 
 * [**Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&citation_for_view=0glmB_UAAAAJ:YsMSGLbcyi4C)  
 *I Spinelli, R Bianchini, S Scardapane*
 <sm>
-arXiv preprint arXiv:2302.11479		2023
+Neural Networks		2023
 </sm>
-
-
-# Journals
 
 * [**Re-identification of objects from aerial photos with hybrid siamese neural networks**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&citation_for_view=0glmB_UAAAAJ:Y0pCki6q_DkC)   
 *A Devoto, I Spinelli, F Murabito, F Chiovoloni, R Musmeci, S Scardapane*
@@ -53,6 +56,18 @@ Neural Networks 2020
 
 
 # Conferences
+
+* [**ICML 2023 Topological Deep Learning Challenge: Design and Results**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&authuser=3&citation_for_view=0glmB_UAAAAJ:eQOLeE2rZwMC)   
+*M Papillon et. al.*
+<sm>
+PMLR    2023
+</sm>
+
+* [**Combining Stochastic Explainers and Subgraph Neural Networks can Increase Expressivity and Interpretability**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&authuser=3&citation_for_view=0glmB_UAAAAJ:eQOLeE2rZwMC)   
+*I Spinelli, M Guerra, FM Bianchi, S Scardapane*
+<sm>
+Proceedings of ESANN    2023
+</sm>
 
 * [**Explainability in subgraphs-enhanced Graph Neural Networks**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&citation_for_view=0glmB_UAAAAJ:W7OEmFMy1HYC)   
 *M Guerra, I Spinelli, S Scardapane, FM Bianchi*

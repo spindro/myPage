@@ -1,27 +1,27 @@
 # Global options
 baseURL = "https://spindro.github.io/"
 canonifyURLs = true
-copyright = "© 2023 by Indro Spinelli. <a href='/privacy'>Privacy policy</a>."
+copyright = "© 2024 by Indro Spinelli. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 theme = "barks"
-title = "Indro Spinelli"
+title = "INDRO SPINELLI"
 googleAnalytics = "UA-125836689-1"
 
 # Main menu
 [[menu.main]]
-    name = "About"
+    name = "ABOUT"
     url  = "/about"
     weight = 2
 
 [[menu.main]]
-    name = "Activities"
+    name = "ACTIVITIES"
     url  = "/activities"
     weight = 2
 
 [[menu.main]]
-    name = "Publications"
+    name = "PUBLICATIONS"
     url  = "/publications"
     weight = 2
 
@@ -40,14 +40,14 @@ googleAnalytics = "UA-125836689-1"
         show_footer = true
 
     [params.typography]
-        title_font = "Roboto Slab"
-        body_font = "Roboto Slab"
+        title_font = "Oswald"
+        body_font = "Raleway"
 
     [params.colors]
-        theme_color = "#123308"
-        background_color = "#FAF5E9"
-        text_color = "#123308"
-        link_color = "#fec308"
+        theme_color = "#192928"
+        background_color = "#FFFFFF"
+        text_color = "#192928"
+        link_color = "#BFEB89"
 
     [params.social]
         [params.social.email]
@@ -75,11 +75,7 @@ googleAnalytics = "UA-125836689-1"
             class = "fab fa-linkedin"
             url = "https://www.linkedin.com/in/indro-spinelli-770380123/"
             weight = 6
-        [params.social.orcid]
-            name = "ORCID iD"
-            class = "fab fa-orcid"
-            url = "https://orcid.org/0000-0003-1963-3548"
-            weight = 7
+
 
 # Options for Markdown renderer
 [markup]

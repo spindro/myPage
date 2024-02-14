@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "ABOUT"
 math: false
 hide_title: true
 ---
@@ -13,7 +13,15 @@ hide_title: true
 
 `2022-2023`     __Research Fellow__
 <sm>
+[INFN, Istituto Nazionale di Fisica Nucleare](https://home.infn.it/it/)
+</sm>
+<sm>
 [CINI, Consorzio Interuniversitario Nazionale per l'Informatica](https://www.consorzio-cini.it/index.php/it/)
+</sm>
+
+`2022-2023`     __Teaching Assistant__
+<sm>
+[LUISS, Department of Business and Management](https://www.luiss.edu)
 </sm>
 
 `2017-2018`     __Research Intern__
@@ -28,7 +36,7 @@ hide_title: true
 Sapienza University of Rome / UiT The Arctic University of Norway
 </sm>
 
-`2017-2019`     __Msc Artificial Intelligence and Robotics__
+`2017-2019`     __MSc Artificial Intelligence and Robotics__
 <sm>
 Sapienza University of Rome
 </sm>
@@ -38,7 +46,7 @@ Sapienza University of Rome
 Sapienza University of Rome
 </sm>
 
+## CV
 
 
-
-
+[Here!](files/IS_cv.pdf)
