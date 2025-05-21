@@ -49,4 +49,4 @@ Sapienza University of Rome
 ## CV
 
 
-[Here!](files/IS_cv.pdf)
+[Here!](https://spindro.github.io/files/CV_spinelli.pdf)
