@@ -1,21 +1,14 @@
-// prettier-ignore
 /*
-Read the variables defined in the config.toml file and define the corresponding
-SCSS variables. This is achieved by `resources.ExecuteAsTemplate` in the <head>;
-warnings by a linter that the following is not valid SCSS can be ignored.
+   THEME STYLES
+   Hardcoded variables from config.toml to ensure build stability and prevent auto-formatter corruption.
 */
 
-$title-font: {{ .Site.Params.typography.title_font | default "Bree Serif" }};
-
-$body-font: {{ .Site.Params.typography.body_font | default "Source Sans Pro" }};
-
-$background-color: {{ .Site.Params.colors.background_color | default "#fcfbf9" }};
-
-$text-color: {{ .Site.Params.colors.text_color | default "#333333" }};
-
-$link-color: {{ .Site.Params.colors.link_color | default "#60c17d" }};
-
-$theme-color: {{ .Site.Params.colors.theme_color | default "#60c17d" }};
+$title-font: "Outfit", "Bree Serif", serif;
+$body-font: "Inter", "Source Sans Pro", sans-serif;
+$background-color: #F9FAFB;
+$text-color: #374151;
+$link-color: #2563EB;
+$theme-color: #111827;
 
 
 /* =========================================
@@ -309,9 +302,6 @@ main {
     }
 
     figcaption a {
-        /* Simplification for SCSS compilation without math imports if tricky, 
-           assuming $background-color is hex. 
-           Keeping consistent with original logic but simplified for brevity in this migration. */
         color: inherit !important;
     }
 
@@ -332,14 +322,17 @@ main> :first-child {
 /* Landing Page Wrapper (Structure Only) */
 .landing-page-wrapper {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    /* Keep content and image together */
     align-items: center;
     /* Center image vertically with text */
-    gap: 4rem;
-    /* Add generous spacing */
-    max-width: 1200px;
+    gap: 5rem;
+    /* Distinct spacing but not pushed to edges */
+    max-width: 1100px;
+    /* Tighter container for better readability */
     margin: 0 auto;
-    padding: 2rem 0;
+    padding: 2rem 2rem;
+    /* Add side padding */
 }
 
 .landing-page-content {
@@ -679,13 +672,15 @@ nav a:hover::after {
 
 /* Glass News Card */
 .landing-page-news {
-    background: rgba(255, 255, 255, 0.6);
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.4);
+    /* Glass background */
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    padding: 2.5rem;
-    border-radius: 24px;
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.05);
     border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
     transition: transform 0.3s ease;
     animation: fadeInUp 0.8s ease-out 0.4s both;
 }
