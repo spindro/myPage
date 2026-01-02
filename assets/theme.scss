@@ -369,7 +369,10 @@ main> :first-child {
         width: 100%;
         display: flex;
         justify-content: center;
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
+        position: relative !important;
+        /* Disable sticky on mobile */
+        top: auto !important;
     }
 }
 
@@ -539,8 +542,10 @@ body {
         #FAFAFA !important;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 200% 200%;
+    /* Larger size for animation */
     min-height: 100vh;
+    animation: gradientMove 15s ease infinite;
 }
 
 h2,
@@ -744,6 +749,20 @@ nav a:hover::after {
     to {
         opacity: 1;
         transform: scale(1);
+    }
+}
+
+@keyframes gradientMove {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
     }
 }
 
