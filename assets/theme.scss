@@ -204,26 +204,26 @@ body {
     font-display: swap;
 }
 
-.outer {
-    display: table;
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-}
-
-.middle {
-    display: table-cell;
-    vertical-align: middle;
-}
+/* Legacy layout wrappers removed - superseded by cleaner block model */
+/* .outer, .middle removed */
 
 .inner {
     margin-left: auto;
     margin-right: auto;
     max-width: 768px;
+    /* Classic reading width for posts */
     padding: 0 16px;
     box-sizing: border-box;
+}
+
+.home-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1400px;
+    /* Wider canvas for split layout */
+    padding: 0 40px;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 @media only screen and (max-width: 600px) {
@@ -319,26 +319,35 @@ main> :first-child {
     margin-top: 0 !important;
 }
 
-/* Landing Page Wrapper (Structure Only) */
+/* Landing Page Wrapper */
 .landing-page-wrapper {
     display: flex;
     justify-content: center;
-    /* Keep content and image together */
-    align-items: center;
-    /* Center image vertically with text */
-    gap: 5rem;
-    /* Distinct spacing but not pushed to edges */
-    max-width: 1100px;
-    /* Tighter container for better readability */
-    margin: 0 auto;
-    padding: 2rem 2rem;
-    /* Add side padding */
+    /* keep overall centered */
+    align-items: flex-start;
+    /* Align TOP of text with TOP of image */
+    gap: 6rem;
+    max-width: 100%;
+    margin: 4rem auto;
+    /* More vertical breathing room */
 }
 
 .landing-page-content {
     flex: 1;
-    min-width: 300px;
-    /* Prevent text from getting too squeezed */
+    max-width: 650px;
+    /* legible line length */
+    min-width: 320px;
+}
+
+.landing-page-image {
+    flex: 0 0 300px;
+    /* Reduced specific width for image container */
+    position: sticky;
+    /* Sticky positioning */
+    top: 100px;
+    /* Stick 100px from top of viewport */
+    height: fit-content;
+    /* Required for sticky to work within flex item */
 }
 
 /* Ensure container handles column layout on mobile if not already handled */
