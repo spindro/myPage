@@ -5,7 +5,6 @@ copyright = "© 2024 by Indro Spinelli. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
-theme = "barks"
 title = "INDRO SPINELLI"
 googleAnalytics = "UA-125836689-1"
 
@@ -33,7 +32,6 @@ googleAnalytics = "UA-125836689-1"
 [params]
     [params.head]
         author = "Indro Spinelli"
-        custom_css = "/custom.css"
         description = "spindro"
         keywords = ["trusthworthy machine learning", "academic", "graph neural networks"]
 
@@ -44,14 +42,14 @@ googleAnalytics = "UA-125836689-1"
         show_footer = true
 
     [params.typography]
-        title_font = "Oswald"
-        body_font = "Raleway"
+        title_font = "Outfit"
+        body_font = "Inter"
 
     [params.colors]
-        theme_color = "#192928"
-        background_color = "#FFFFFF"
-        text_color = "#192928"
-        link_color = "#BFEB89"
+        theme_color = "#111827"
+        background_color = "#F9FAFB"
+        text_color = "#374151"
+        link_color = "#2563EB"
 
     [params.social]
         [params.social.email]

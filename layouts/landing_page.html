@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="landing-page-wrapper">
+    <div class="landing-page-content">
+        <div>
+            {{ .Content | safeHTML }}
+
+            <!-- News Section Added -->
+            {{ with .Site.GetPage "page" "news.md" }}
+            <br>
+            <div class="landing-page-news">
+                <h3>{{ .Title }}</h3>
+                {{ .Content }}
+            </div>
+            {{ end }}
+
+        </div>
+    </div>
+    <div class="landing-page-image">
+        <!-- Removed hardcoded width/height to prevent distortion. CSS handles sizing. -->
+        <img src="{{ .Params.image }}" alt="{{ .Site.Params.header.title }}">
+    </div>
+</div>
+{{ end }}
