@@ -204,7 +204,7 @@ span .katex-display {
 body {
     background-color: $background-color;
     font-family: $body-font, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 160%;
     font-display: swap;
     scroll-behavior: smooth;
@@ -512,7 +512,9 @@ footer {
     width: 100%;
     text-align: center;
     margin-bottom: 60px;
-    border-top: 2px solid $link-color;
+    /* Iridescent Separator Line matching Nav */
+    border-top: 3px solid transparent;
+    border-image: linear-gradient(90deg, #3B82F6, #8B5CF6) 1;
     padding-top: 1em;
     font-size: small;
     color: $theme-color;
@@ -520,16 +522,22 @@ footer {
     .fas,
     .fab,
     .ai {
-        color: $link-color;
+        /* Iridescent text gradient matching Nav (Blue to Purple) */
+        background: linear-gradient(90deg, #3B82F6, #8B5CF6);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
         font-size: x-large;
-        transition: all .15s ease-in-out;
+        transition: all .3s cubic-bezier(0.4, 0, 0.2, 1);
+        display: inline-block;
+        /* Required for transform */
     }
 
     .fas:hover,
     .fab:hover,
     .ai:hover {
-        color: $theme-color;
-        transform: scale(1.5);
+        transform: scale(1.2) rotate(5deg);
+        filter: drop-shadow(0 0 8px rgba(139, 92, 246, 0.5));
     }
 
     ul {
@@ -592,9 +600,13 @@ h6 {
 }
 
 /* Typography Tweaks */
-p {
+/* Typography Tweaks */
+p,
+li {
+    font-size: 0.9rem;
+    /* Slightly reduced size */
     line-height: 1.8;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     color: #374151;
     /* Slightly darker for contrast against glass */
     animation: fadeInUp 0.8s ease-out 0.2s both;
@@ -718,7 +730,7 @@ nav a:hover::after {
 
 /* Glass News Card */
 .landing-page-news {
-    margin-top: 2rem;
+    margin-top: 1rem;
     padding: 1.5rem;
     background: rgba(255, 255, 255, 0.4);
     /* Glass background */

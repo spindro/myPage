@@ -39,30 +39,26 @@ __Enel Third Global Data Meetup__ Graph and geometric deep learning
 
 ## Workshop organization
 
-This year we are organizing the second edition of the [Beyond Euclidean: Hyperbolic & Hyperspherical Learning for Computer Vision](https://sites.google.com/view/beyondeuclidean/home), in conjunction with ICCV Conference on Computer Vision (ICCV) 2025. Link to the past edition at ECCV2024 [HERE]((https://sites.google.com/view/beyondeuclidean/past-edition))
+[Beyond Euclidean: Hyperbolic & Hyperspherical Learning for Computer Vision](https://sites.google.com/view/beyondeuclidean/home), held in conjunction with ICCV 2025 and ECCV 2024.
 
 
 ## Editorial roles
 
+__Associate Editor__
+<sm>
+[The Visual Computer](https://link.springer.com/journal/371).
+</sm>
+
 __Associate Chair__
 <sm>
-[VISAPP](https://visapp.scitevents.org/)
+[VISAPP](https://visapp.scitevents.org/).
 </sm>
 
 __Area Chair__
 <sm>
-
-[IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026)](https://fg2026.ieee-biometrics.org/)
-
-[International Conference on Image Analysis and Processing (ICIAP 2025)](https://www.iciap.org/home) 
-
+[IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026)](https://fg2026.ieee-biometrics.org/)  
+[International Conference on Image Analysis and Processing (ICIAP 2025)](https://www.iciap.org/home)  
 [Northern Lights Deep Learning Conference (NLDL 2025)](https://www.nldl.org/home)
-</sm>
-
-
-__Associate Editor__
-<sm>
-[The Visual Computer](https://link.springer.com/journal/371).
 </sm>
 
 __Reviwer__
