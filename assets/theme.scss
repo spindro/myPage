@@ -351,6 +351,93 @@ main> :first-child {
     margin-top: 0 !important;
 }
 
+/* PhD students */
+.students-page {
+    padding-top: 2rem;
+}
+
+.students-page__eyebrow {
+    margin: 0;
+    color: #4F46E5;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+}
+
+.students-page h1 {
+    margin: 0.25rem 0 0;
+    text-align: left;
+    color: #111827;
+    font-size: 2.2rem;
+    letter-spacing: -0.04em;
+}
+
+.students-page__intro {
+    margin: 0.5rem 0 2rem;
+    color: #6B7280;
+}
+
+.student-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+.student-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.9rem;
+    min-height: 178px;
+    padding: 1.35rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.6);
+    box-shadow: 0 10px 30px rgba(79, 70, 229, 0.08);
+    backdrop-filter: blur(10px);
+}
+
+.student-card__initials {
+    display: grid;
+    flex: 0 0 3rem;
+    width: 3rem;
+    height: 3rem;
+    place-items: center;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #3B82F6, #8B5CF6);
+    color: #fff;
+    font-family: $title-font;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.student-card h2 {
+    margin: 0;
+    color: #111827;
+    font-size: 1.15rem;
+    line-height: 1.3;
+}
+
+.student-card p {
+    margin: 0.55rem 0 0;
+    font-size: 0.82rem;
+    line-height: 1.6;
+}
+
+.student-card__role {
+    color: #4F46E5 !important;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 700px) {
+    .student-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .student-card {
+        min-height: 0;
+    }
+}
+
 /* Landing Page Wrapper */
 .landing-page-wrapper {
     display: flex;

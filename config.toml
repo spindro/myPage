@@ -24,6 +24,11 @@ googleAnalytics = "UA-125836689-1"
     weight = 2
 
 [[menu.main]]
+    name = "STUDENTS"
+    url  = "/students"
+    weight = 2
+
+[[menu.main]]
     name = "PUBLICATIONS"
     url  = "/publications"
     weight = 2
