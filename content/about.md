@@ -6,7 +6,12 @@ hide_title: true
 
 ## Experience
 
-`2023-****`    __Assistant Professor__
+`2026-****`    __Tenure Track Assistant Professor__
+<sm>
+[Department of Computer Science, Sapienza University of Rome](https://www.di.uniroma1.it/en/department)
+</sm>
+
+`2023-2026`    __Assistant Professor__
 <sm>
 [Department of Computer Science, Sapienza University of Rome](https://www.di.uniroma1.it/en/department)
 </sm>

@@ -26,7 +26,7 @@ __Enel Third Global Data Meetup__ Graph and geometric deep learning
 
 `2025-2026` __PI of Advaise__ Academic Entrepreneurship Initiatives of Sapienza University of Rome.
 
-`2025` __PI of CAREbot__ (Comunicazione e Autonomia Robotica per l’assistEnza), Fondazione FAIR for tecnological transfer of High-quality AI prototypes.
+`2025` __PI of CAREbot__ (Comunicazione e Autonomia Robotica per l’assistEnza), Fondazione FAIR for technological transfer of High-quality AI prototypes.
 
 `2024-2025` __PI of the IARA__ Project (Intelligenza Artificiale in sistemi RAdar), collaboration between Fondazione FAIR and Leonardo Labs.
 
@@ -39,7 +39,7 @@ __Enel Third Global Data Meetup__ Graph and geometric deep learning
 
 ## Workshop organization
 
-[Beyond Euclidean: Hyperbolic & Hyperspherical Learning for Computer Vision](https://sites.google.com/view/beyondeuclidean/home), held in conjunction with ICCV 2025 and ECCV 2024.
+[Beyond Euclidean: Hyperbolic & Hyperspherical Learning for Computer Vision](https://sites.google.com/view/beyondeuclidean/home), held in conjunction with ECCV 2026, ICCV 2025 and ECCV 2024.
 
 
 ## Editorial roles
@@ -61,8 +61,13 @@ __Area Chair__
 [Northern Lights Deep Learning Conference (NLDL 2025)](https://www.nldl.org/home)
 </sm>
 
-__Reviwer__
+__Reviewer__
 <sm>
 NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI
 IEEE TNNLS, IEEE TAI, Neural Networks, Cognitive Computation, Neurocomputing
+</sm>
+
+__Best Reviewer Award__
+<sm>
+NeurIPS 2025, CVPR 2026, ECCV 2026
 </sm>

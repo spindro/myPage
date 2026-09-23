@@ -6,12 +6,41 @@ math: false
 
 ## Conferences
 
+[**Bimanual Robot Manipulation via Multi-Agent In-Context Learning**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&citation_for_view=0glmB_UAAAAJ:QIV2ME_5wuYC)   
+*A Palma, I Spinelli, V Prasad, L Scofano, Y Jin, G Chalvatzaki, F Galasso*
+<sm>
+In Proc. of the Conference on Robot Learning (CoRL) 2026
+</sm>
+
+[**Quantifying Self-Preservation Bias in Large Language Models**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&citation_for_view=0glmB_UAAAAJ:mVmsd5A6BfQC)   
+*M Migliarini, J Pizzini, L Moresca, V Santini, I Spinelli, F Galasso*
+<sm>
+In Proc. of the Conference on Empirical Methods in Natural Language Processing (EMNLP Findings) 2026
+</sm>
+
+[**Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&citation_for_view=0glmB_UAAAAJ:Wp0gIr-vW9MC)   
+*M Pappa, L Romani, V Sacco, A Palma, S Lathuilière, F Galasso, X Alameda-Pineda, I Spinelli*
+<sm>
+In Proc. of the European Conference on Computer Vision (ECCV) 2026
+</sm>
+
+[**Robots Ask the Way: Communication-Enabled Social Navigation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&authuser=1&citation_for_view=0glmB_UAAAAJ:YOwf2qJgpHMC)   
+*V Sacco, L Scofano, I Spinelli, F Galasso*
+<sm>
+In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026
+</sm>
+
+[**Video Unlearning via Low-Rank Refusal Vector**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&cstart=20&pagesize=80&authuser=1&citation_for_view=0glmB_UAAAAJ:YOwf2qJgpHMC)   
+*S Facchiano, S Saravalle, M Migliarini, E De Matteis, A Sampieri, A Pilzer, E Rodolà, I Spinelli, L Franco, F Galasso*
+<sm>
+In Proc. of the International Conference on Learning Representation (ICLR) 2026
+</sm>
+
 [**Human Motion Unlearning**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&authuser=1&citation_for_view=0glmB_UAAAAJ:Zph67rFs4hoC)   
 *E De Matteis, M Migliarini, A Sampieri, I Spinelli, F Galasso*
 <sm>
-In Proc. of the AAAI Conference on Artificial Intelligence 2026
+In Proc. of the AAAI Conference on Artificial Intelligence (AAAI) 2026
 </sm>
-
 
 [**MonSTeR: a Unified Model for Motion, Scene, Text Retrieval**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&authuser=1&citation_for_view=0glmB_UAAAAJ:_kc_bZDykSQC)   
 *L Collorone, M Gioia, M Pappa, P Leoni, G Ficarra, O Litany, I Spinelli, F Galasso*
@@ -22,7 +51,7 @@ In Proc. of the International Conference on Computer Vision (ICCV) 2025
 [**GATSY: Graph Attention Network for Music Artist Similarity**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&sortby=pubdate&authuser=1&citation_for_view=0glmB_UAAAAJ:4TOpqqG69KYC)   
 *A G Di Francesco, G Giampietro, I Spinelli, D Comminiello*
 <sm>
-In Proc. of the IEEE International Joint Conference on Neural Networks (IJCNN 2025)
+In Proc. of the IEEE International Joint Conference on Neural Networks (IJCNN) 2025
 </sm>
 
 [**Following the Human Thread in Social Navigation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&citation_for_view=0glmB_UAAAAJ:5nxA0vEk-isC)   
@@ -156,7 +185,7 @@ In Proc. of the Northern Lights Deep Learning Workshop (NLDL)   2023
 </sm>
 
 [**ArcheoWeedNet: Weed Classification in the Parco archeologico del Colosseo**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0glmB_UAAAAJ&cstart=20&pagesize=80&citation_for_view=0glmB_UAAAAJ:Se3iqnhoufwC)   
-Gaetano Saurio, Marco Muscas, Indro Spinelli, Valerio Rughetti, Irma Della Giovampaola, Simone Scardapane In Proc. of the International Conference on Image Analysis and Processing Workshops, 
+Gaetano Saurio, Marco Muscas, Indro Spinelli, Valerio Rughetti, Irma Della Giovampaola, Simone Scardapane 
 <sm>
 In Proc. of the International Conference on Image Analysis and Processing Workshops (ICIAP)  2023
 </sm>
